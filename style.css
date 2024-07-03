@@ -1,0 +1,30 @@
+body {
+    font-family: "Times New Roman", sans-serif;
+}
+
+.home-title {
+    font-size: 48px;
+    background-color: gold;
+    color: white;
+}
+
+.recipe-title {
+    font-size: 48px;
+    background-color: blue;
+    color: white;
+}
+
+.link {
+    font-size: 24px;
+}
+
+.ingredients {
+    color: gold;
+    background-color: black;
+}
+
+.steps {
+    color: black;
+    background-color: gold;
+}
+
